@@ -1,6 +1,7 @@
 {
     //
-    const findLargestNumber = (value: Array<number>) : number => {
+    const findLargestNumber = (value: Array<number>): number => {
+
         return Math.max(...value)
 
     }
