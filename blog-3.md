@@ -12,10 +12,8 @@ const logString = (value: unknown) => {
             console.log(value);
         } else {
             console.log("Input is not a string");
-
         }
     }
-
     logString("Hello, TypeScript!")
 
 
